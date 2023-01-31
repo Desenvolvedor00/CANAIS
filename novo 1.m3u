@@ -1,7 +1,6 @@
+
+
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml.gz"
-
-
-
 ################################################### ############################### Abertos
 
 #EXTINF:-1 tvg-id="RedeGlobo.br"tvg-logo="https://img.ittv.com.br/images/channel-logo/636a590c06c26d0001d11756.JPG" group-title="Abertos",RecordTV
@@ -17,6 +16,7 @@ https://cdn.ittv.com.br/SBT_HD/tracks-v3a1/mono.m3u8?token=6d1102727789ffaac4e94
 
 #EXTINF:-1 tvg-id="CanalViva.br"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest/scale-to -width-down/280?cb=20140519221640" group-title="Abertos",Canal Viva
 http://199.127.60.83:16884/
+
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/hd76Jt4.png" group-title="Abertos",RedeTV!
 link
@@ -204,176 +204,7 @@ http://199.127.60.83:16043/
 http://195.181.163.144:14606/
 
 
-#EXTINF:-1 tvg-id="HBO2Brasil.br" tvg-logo="https://i.imgur.com/9DXaBvu.png" group-title="Filmes e Séries",HBO 2
-https://server100.online/hbo2/video.m3u8?token=a7428c2335da7e09591986764bc9dfb608af1eed-af5e453f08c2f70f8eb21dcbde9f6ad3-1673212478-http://172.93.110.132:14376/
-
-#EXTINF:-1 tvg-id="HBOFamilyBrasil.us" tvg-logo="https://i.imgur.com/u3UNi6p.png" group-title="Filmes e Séries",HBO Family
-http://15.235.10.43:14388/
-
-#EXTINF:-1 tvg-id="HBOMundiBrasil.us" tvg-logo="https://i.imgur.com/EsexEPx.png" group-title="Filmes e Séries",HBO Mundi
-https://server100.online/hbo-mundi/video.m3u8?token=4d19254f473d6cb1178e1fd05ab9eb496ee4a8d0-3537f23259c6170dc85f7e4be2d73abc-1673210382-1673203182&remote=177.8.8
-
-
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-logo="https://i.imgur.com/JOIiuSx.png" group-title="Filmes e Séries",HBO Plus
-https://lmtv.me/live/1666890340hig/443900/95451.m3u8
-
-#EXTINF:-1 tvg-id="HBOPopBrasil.us" tvg-logo="https://i.imgur.com/LCv8309.png" group-title="Filmes e Séries",HBO Pop
-http://15.235.10.43:14397/
-
-
-
-#EXTINF:-1 tvg-id="HBOSignatureBrasil.us" tvg-logo="https://i.imgur.com/D1lyonM.png" group-title="Filmes e Séries",HBO Signature
-http://lmtv.me/live/1666890340hig/443900/90120.m3u8
-
-
-#EXTINF:-1 tvg-id="HBOXtremeBrasil.br" tvg-logo="https://i.imgur.com/vRJWlJH.png" group-title="Filmes e Séries",HBO Xtreme
-http://15.235.10.43:14404/
-
-
-
-#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://i.imgur.com/Xlf6PBQ.png" group-title="Filmes e Séries",Megapix
-http://lmtv.me/live/1666890340hig/443900/90158.m3u8
-
-
-#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzEkr18r0N0Y8sos2q__RuOMX_VhGEi_bQw&usqp=CAU"group-title="Filmes e Séries" ,Paramount
-http://lmtv.me/live/1666890340hig/443900/90204.m3u8
-
-#EXTINF:-1 tvg-id="SonyChannelBrasil.br" tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="Filmes e Séries",Sony
-http://199.127.60.83:16063/
-
-#EXTINF:-1 tvg-id="EspaçoBrasil.br" tvg-logo="https://i.imgur.com/GgNR6Ut.png" group-title="Filmes e Séries",Espaço
-http://195.181.163.144:14730/
-
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-logo="https://i.imgur.com/QE899aV.png" group-title="Filmes e Séries",Telecine Action
-http://199.127.60.83:16056/
-
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-logo="https://i.imgur.com/dULnlUW.png" group-title="Filmes e Séries",Telecine Cult
-https://lmtv.me/live/1666890340hig/443900/90367.m3u8
-
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-logo="https://i.imgur.com/tJC1Hkl.png" group-title="Filmes e Séries",Telecine Fun
-http://172.93.110.132:14361/
-
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-logo="https://i.imgur.com/QibPkaK.png" group-title="Filmes e Séries"Telecine Pipoca
-https://server100.online/telecine-pipoca/video.m3u8?token=9bececfad5d9b9f617164fbe303a483623c083a6-081c1023facb696478b10577b6723c02-1673204440-1673197240&remote=177.8.8
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-logo="https://i.imgur.com/lCZ3cbf.png" group-title="Filmes e Séries",Telecine Touch
-https://lmtv.me/live/1666890340hig/443900/90384.m3u8
-
-#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT
-http://lmtv.me/live/1666890340hig/443900/90393.m3u8
-
-#EXTINF:-1 tvg-id="TNTSeriesBrazil.br"tvg-logo="https://i.imgur.com/RSGqIKS.png" group-title="Filmes e Séries",TNT Séries
-https://lmtv.me/live/1666890340hig/443900/90397.m3u8
-
-#EXTINF:-1 tvg-id="UniversalTVBrazil.br"tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Filmes e Séries" ,Canal Universal
-http://lmtv.me/live/1666890340hig/443900/90435.m3u8
-
-#EXTINF:-1 tvg-id="StudioUniversalBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/512px-StudioUniversal2016.png" grupo -title="Filmes e Séries",Estúdio Universal
-http://lmtv.me/live/1666890340hig/443900/90349.m3u8
-
-
-#EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_ %28Yellow%29.svg.png" group-title="Filmes e Séries",Cinemax Brasil
-http://lmtv.me/live/1666890340hig/443900/89870.m3u8
-
-#EXTINF:-1 tvg-id="SyfyBrazil.br" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Filmes e Séries",Syfy
-https://lmtv.me/live/1666890340hig/443900/90353.m3u8
-
-#EXTINF:-1 tvg-id="TCMBrazil.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/512px-TCM_Latam_logo.svg.png " group-title="Filmes e Séries",TCM
-https://lmtv.me/live/1666890340hig/443900/90359.m3u8
-
-#EXTINF:-1 tvg-id="StarChannelBrazil.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png " group-title="Filmes e Séries",Star Channel
-https://lmtv.me/live/1666890340hig/443900/90333.m3u8
-
-################################################### ############################### Notícias
-
-#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/08SucJq.png" group-title="Notícias",BandNews
-https://lmtv.me/live/1666890340hig/443900/89821.m3u8
-
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://i.imgur.com/GVtn7zH.png" group-title="Notícias",GloboNews
-http://lmtv.me/live/1666890340hig/443900/90040.m3u8
-
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="Notícias",Jovem Pan News
-http://172.93.110.132:14240/
-
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/NRnPKDM.png" group-title="Notícias",Record News
-https://lmtv.me/live/1666890340hig/443900/90260.m3u8
-
-################################################### ############################### Documentários
-
-#EXTINF:-1 tvg-id="AMCBrasil.br" tvg-logo="https://i.imgur.com/6vHnlg7.png" group-title="Filmes e Séries",AMC
-http://199.127.60.83:16004/
-
-#EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-logo="https://i.imgur.com/wpofgHZ.png" group-title="Documentários",Animal Planet
-http://199.127.60.83:16192/
-
-#EXTINF:-1 tvg-id="DiscoveryChannelBrasil.br" tvg-logo="https://i.imgur.com/OZNnpEM.png" group-title="Documentários",Discovery Channel
-http://15.235.10.31:14223/
-
-
-#EXTINF:-1 tvg-id="DiscoveryScienceBrasil.us" tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Documentários",Discovery Science
-http://lmtv.me/live/1666890340hig/443900/89926.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-logo="https://i.imgur.com/ZO3vSc7.png" group-title="Documentários",Discovery Theatre
-https://lmtv.me/live/1666890340hig/443900/89930.m3u8
-
-
-
-#EXTINF:-1 tvg-id="DiscoveryWorldBrasil.br" tvg-logo="https://i.imgur.com/HD0mvvi.png" group-title="Documentários",Discovery World
-http://15.235.10.31:14247/
-
-
-
-#EXTINF:-1 tvg-id="HistoryBrasil.br" tvg-logo="https://i.imgur.com/j9gMYGr.png" group-title="Documentários",História
-http://15.235.10.43:14417/
-
-#EXTINF:-1 tvg-id="History2Brazil.br" tvg-logo="https://i.imgur.com/Wg2Tuao.png" group-title="Documentários",História 2
-http://cdn.connectbr.com.br/h2/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="InvestigacaoDiscoveryBrasil.us" tvg-logo="https://i.imgur.com/ulFnrkz.png" group-title="Documentários",Investigação Discovery
-https://live.embedflix.net/p2p/discoveryinvesticacao/chunks.m3u8?nimblesessionid=1942508&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjMgMTE6NDg6MjMgUE0maGFzaF92YWx1ZT0zOUVRVkFlSjZyYkxQU2dmYndPYllBPT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:-1 tvg-id="NationalGeographicBrasil.us" tvg-logo="https://i.imgur.com/sxRwYgp.png" group-title="Documentários",NatGeo
-
-http://lmtv.me/live/1666890340hig/443900/90181.m3u8
-
-################################################### ############################### Variedades e Músicas
-
-
-#EXTINF:-1 tvg-id="Bis.br" tvg-logo="https://i.imgur.com/Y6vCnRd.png" group-title="Variedades e Músicas",BIS
-http://15.235.55.115:14083/
-
-
-
-
-
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrasil.br" tvg-logo="https://i.imgur.com/sdZOfEg.png" group-title="Variedades e Músicas",Discovery Home & Health
-https://lmtv.me/live/1666890340hig/443900/89935.m3u8
-
-#EXTINF:-1 tvg-id="DiscoveryTurboBrasil.br" tvg-logo="https://i.imgur.com/UQYK12p.png" group-title="Variedades e Músicas",Discovery Turbo
-https://lmtv.me/live/1666890340hig/443900/89934.m3u8
-
-
-#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-logo="https://i.imgur.com/YKE3NiR.png" group-title="Variedades e Músicas",Food Network
-http://15.235.10.31:14319/
-
-
-#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png " group-title="Variedades e Músicas",HGTV
-http://15.235.10.43:14413/
-
-
-
-
-
-#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="https://i.imgur.com/fJw3yC6.png" group-title="Variedades e Músicas",MTV
-https://lmtv.me/live/1666890340hig/443900/90166.m3u8
-
-
-#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://i.imgur.com/ICsDSk5.png" group-title="Variedades e Músicas",Multishow
-http://66.90.68.98/live/1666890340hig/443900/90171.m3u8?token=dkNzamRGRjVEczc0ajg1
+#EXTINF:-1 tvg-id="HBO2Brasil.br" tvg-logo="https://i.imgur.c
 
 
 
