@@ -3,14 +3,13 @@
 ################################################################################# Abertos
 
 #EXTINF:-1 tvg-id="TVPajucara.br"tvg-logo="https://img.ittv.com.br/images/channel-logo/636a590c06c26d0001d11756.JPG" group-title="Abertos",RecordTV 
-https://cdn.ittv.com.br/RECORD_AL_TV_PIRAJUCARA/tracks-v1a1/mono.m3u8?token=6052be79c868504d3148a12354dba6894b862d1b-de4bd970df42daed04cd18f37216485b-1675264643-1674659843
-
+https://cdn.ittv.com.br/RECORD_AL_TV_PIRAJUCARA/tracks-v1a1/mono.m3u8?token=b74fdcb7034541ca9ca2cd61158b32ed80772b40-f2693bb87814f4eec082b0d51b4919bd-1675876487-1675271687
 
 #EXTINF:-1 tvg-id="RedeGlobo.br"tvg-logo="https://img.ittv.com.br/images/channel-logo/63655ff606c26d0001d0813f.JPG" group-title="Abertos",Globo
-https://cdn.ittv.com.br/GLOBO_AL_TV_GAZETA/tracks-v2a1/mono.m3u8?token=c57c0527aa8cc9d999847165e7bb390fecca7274-f5314aee24dea5874756df08c0698f98-1675265671-1674660871
+https://cdn.ittv.com.br/GLOBO_AL_TV_GAZETA/tracks-v2a1/mono.m3u8?token=d29a21ddd761d358d9d562b226c4a5a6fcb53a82-0c0e518e21b0d199ea770744e3b2369b-1675876617-1675271817
 
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/9POMYYK.png" group-title="Abertos",SBT
-https://cdn.ittv.com.br/SBT_HD/tracks-v3a1/mono.m3u8?token=ee6c3cca5bee2c17dd9d8064a07f469b5c10d246-06d8b827e195d8ce286cb31c170a073d-1675265790-1674660990
+https://cdn.ittv.com.br/SBT_HD/tracks-v3a1/mono.m3u8?token=3aa1cbe3af5294e27a14c9986a9e125a93e5e30b-6fc94d95be409aed74d4054218172cf9-1675877388-1675272588
 
 #EXTINF:-1 tvg-id="CanalViva.br"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest/scale-to-width-down/280?cb=20140519221640" group-title="Abertos",Canal Viva
 http://contentzord.gelderland.ga:2095/live/viva/chunks.m3u8?token=87811ad2784ew2d2
@@ -22,7 +21,7 @@ https://5cf4a2c2512a2.streamlock.net:443/rbtv/rbtv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1386500224.m3u8
 
 #EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-logo="https://i.imgur.com/S3LnZR8.png" group-title="Abertos",Band
-https://cdn.ittv.com.br/BAND_MACEIO/tracks-v1a1/mono.m3u8?token=8f412facfce04249ce82d72110bf0014e0e7b81f-b4f340ffa8a2320e92cb56813c50f2da-1675266128-1674661328
+https://cdn.ittv.com.br/BAND_MACEIO/tracks-v2a1/mono.m3u8?token=7b23f85acf690dc9a66c8d7d646ed1b8e80dc667-4af07f8d21ac10f74f2448d0e5d0bde0-1675877461-1675272661
 
 #EXTINF:-1 tvg-id="TvCulturaNacional.br" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Abertos",Cultura
 
@@ -30,14 +29,14 @@ http://streaming03.zas.media:1935/panorama/panorama/chunklist_w860667137.m3u8
 
 
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-logo="https://i.imgur.com/rGD9uep.png" group-title="Abertos",Futura
-https://cdn.ittv.com.br/FUTURA/tracks-v1a1/mono.m3u8?token=dbbc109eaa23bf9ceacf000cd0198fb4574d5acb-2c3b7f5ec233d8107ef545de4006388a-1674612869-1674008069
+https://cdn.ittv.com.br/FUTURA/tracks-v1a1/mono.m3u8?token=4f9c54608d612ef0b8841f006678be520aa9417f-f90c3591588d33cd1d6503e67ee89247-1675877488-1675272688
 
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/9dGaIdY.png" group-title="Abertos",TV Brasil
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TVDiario.br" tvg-logo="https://i.imgur.com/dBN229l.png" group-title="Abertos",TV Diário
-https://cdn.ittv.com.br/TV_DIARIO/tracks-v1a1/mono.m3u8?token=7b7f51d56bbbc10ce82613e9fe9c99822c2335c0-00f8c211d356f1c43cf9a52d58ded55f-1675265845-1674661045
+https://cdn.ittv.com.br/TV_DIARIO/tracks-v1a1/mono.m3u8?token=62147b8e1161eb33132c97efbdeb5883d6d089f6-5879e3984ea2625cb64dda416d2e521f-1675877525-1675272725
 
 #EXTINF:-1 tvg-id="TVEscola.br" tvg-logo="https://i.imgur.com/heBR3kT.png" group-title="Abertos",TV Escola
 http://168.205.87.198:8555/live/antony/1234/137.m3u8
