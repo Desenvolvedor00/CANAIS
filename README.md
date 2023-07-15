@@ -1,1 +1,364 @@
-# CANAIS
+#EXTM3U 
+
+
+######################################## DOCUMENTÁRIOS ########################################
+
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"group-title= "DOCUMENTÁRIOS",ANIMAL PLANET
+http://208.115.225.174:14192/
+
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png"group-title= "DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://212.102.60.39:2200/BRX/Discovery_Channel_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png"group-title= "DOCUMENTÁRIOS",DISCOVERY H&H
+http://212.102.60.39:2200/BRX/Discovery_Home_&_Health_HD/tracks-v1a1/mono.m3u8
+http://45.58.126.146:14255/
+
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png"group-title= "DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://45.58.126.146:14264/
+
+#EXTINF:-1 tvg-id="DiscoveryTheaterBrazil.br" tvg-logo="https://i.imgur.com/T07gvEb.png"group-title= "DOCUMENTÁRIOS",DISCOVERY THEATER
+http://suatv.fun:80/842654623498/364949445592/415381
+
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-logo="https://i.imgur.com/WuOhLl4.png"group-title= "DOCUMENTÁRIOS",DISCOVERY TURBO
+http://45.58.126.146:14267/
+
+#EXTINF:-1 tvg-id="DiscoveryWorldBrazil.br" tvg-logo="https://i.imgur.com/Yb3oUls.png"group-title= "DOCUMENTÁRIOS",DISCOVERY WORLD
+,http://suatv.fun:80/842654623498/364949445592/415387
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "DOCUMENTÁRIOS",DOGTV
+http://suatv.fun:80/842654623498/364949445592/415389
+
+#EXTINF:-1 tvg-id="h2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png"group-title= "DOCUMENTÁRIOS",H2
+http://45.58.126.146:14284/
+
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png"group-title= "DOCUMENTÁRIOS",HGTV
+http://suatv.fun:80/842654623498/364949445592/415391
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "DOCUMENTÁRIOS",HISTORY CHANNEL
+http://45.58.126.146:14281/ 
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "DOCUMENTÁRIOS",INVESTIGACAO DISCOVERY
+http://suatv.fun:80/842654623498/364949445592/415410
+
+#EXTINF:-1 tvg-id="LoveNature.br" tvg-logo=""group-title= "DOCUMENTÁRIOS",LOVE NATURE
+http://suatv.fun:80/842654623498/364949445592/415399
+
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"group-title= "DOCUMENTÁRIOS",NATGEO
+http://suatv.fun:80/842654623498/364949445592/415404
+
+#EXTINF:-1 tvg-id="TLCBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png"group-title= "DOCUMENTÁRIOS",TLC
+http://45.58.126.146:14270/ 
+
+
+
+######################################## VARIEDADES ########################################
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title= "VARIEDADES",ARTE 1
+
+#EXTINF:-1 tvg-id="Bis.br" tvg-logo="https://i.imgur.com/VUt1lmH.png" group-title= "VARIEDADES",BIS
+
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title= "VARIEDADES",COMEDY CENTRAL
+
+#EXTINF:-1 tvg-id="Curta.br" tvg-logo="https://i.imgur.com/Rwrh0zU.png" group-title= "VARIEDADES",CURTA
+
+#EXTINF:-1 tvg-id="EBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title= "VARIEDADES",E!
+
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-logo="https://i.imgur.com/cZWKyuM.png" group-title= "VARIEDADES",FASHION TV
+
+#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-logo="https://i.imgur.com/6l7us9Y.png" group-title= "VARIEDADES",FOOD NETWORK
+
+#EXTINF:-1 tvg-id="GNT.br" tvg-logo="https://i.imgur.com/XymcvMy.png" group-title= "VARIEDADES",GNT
+
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title= "VARIEDADES",MTV
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://i.imgur.com/bqVg8nT.png" group-title= "VARIEDADES",MULTISHOW
+
+#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-logo="https://i.imgur.com/BMqSDNn.png" group-title= "VARIEDADES",PRIME BOX BRAZIL
+
+#EXTINF:-1 tvg-id="truTVBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title= "VARIEDADES",TRU TV
+
+
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-logo="https://i.imgur.com/3tBJERH.png" group-title= "VARIEDADES",TRAVEL BOX BRASIL
+
+#EXTINF:-1 tvg-id="CanalViva.br" tvg-logo="https://i.imgur.com/uNHu40M.png" group-title="VARIEDADES",CANAL VIVA
+http://199.127.60.83:16884/
+
+
+#EXTINF:-1 tvg-id="ChefTV.br" tvg-logo="https://i.imgur.com/UYksTee.png" group-title= "VARIEDADES",CHEF TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title= "VARIEDADES",
+
+
+
+
+######################################## INFANTIL ########################################
+
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-logo="https://i.imgur.com/fvVovnc.png" group-title= "INFANTIL",BABY TV
+http://suatv.fun:80/842654623498/364949445592/415177
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title= "INFANTIL",CARTOON NETWORK
+http://212.102.60.39:2200/BRX/Cartoon_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png"group-title= "INFANTIL",CARTOONITO
+http://212.102.60.39:2200/BRX/Cartoonito_HD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-logo="https://i.imgur.com/C0VEHXU.png"group-title= "INFANTIL",DISCOVERY KIDS
+http://212.102.60.39:2200/BRX/Disc_Kids_HD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png"group-title= "INFANTIL",DISNEY CHANNEL
+http://212.102.60.39:2200/BRX/Disney_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Gloob.br" tvg-logo="https://i.imgur.com/N1BUULh.png"group-title= "INFANTIL",GLOOB
+http://212.102.60.39:2200/BRX/Gloob_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-logo="https://i.imgur.com/UWkHErt.png"group-title= "INFANTIL",GLOOBINHO
+http://212.102.60.39:2200/BRX/Gloobinho_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NickJrBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"group-title= "INFANTIL",NICK JR HD
+http://212.102.60.39:2200/BRX/Nick_Jr_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"group-title= "INFANTIL",NICKELODEON
+http://212.102.60.39:2200/BRX/Nick_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://i.imgur.com/3yXRbQy.png"group-title= "INFANTIL",TOONCAST
+http://212.102.60.39:2200/BRX/Tooncast_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "INFANTIL",TV RA TIM BUM
+http://212.102.60.39:2200/BRX/Tv_Ra_HD/tracks-v1a1/mono.m3u8
+                                            
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "INFANTIL",ZOOMOO
+http://212.102.60.39:2200/BRX/Zoo_Moo_HD/tracks-v1a1/mono.m3u8
+
+
+######################################## DESENHOS 24 HORAS ########################################
+
+
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp"group-title= "DESENHOS 24 HORAS",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w702207273.m3u8
+
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp"group-title= "DESENHOS 24 HORAS",RETRÔ CARTOON	
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1737390808.m3u8
+
+#EXTINF:-1 tvg-id="BobEsponjabrasil.br" tvg-logo="http://3.bp.blogspot.com/_rkcoCnWrrz4/TULPqwv9e0I/AAAAAAAAAIk/Rr5teEjfVQU/s640/logo+mas+bob1243875565440.png"group-title= "DESENHOS 24 HORAS",BOB ESPONJA
+http://digitaldonate2.ddns.net:8085/BobEsponja/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c9/Logo.png/revision/latest?cb=20160928221609&path-prefix=pt-br"group-title= "DESENHOS 24 HORAS",PICA-PAU 1
+http://212.102.60.39:2200/BRX/ZC24_Horas_PicaPau/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgNlo2ZRP3jOmheyvSTovGFj_key1-9-Zh4g&usqp=CAU"group-title= "DESENHOS 24 HORAS",PICA-PAU 2
+http://24hrs.homelinux.com/24H-picapau/video.m3u8?token=_OpedstPr3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp"group-title= "DESENHOS 24 HORAS",OS JETSONS
+http://appservv62.xyz:2095/live/Xplus-1-kbauNfQrld/YsMhBV0JTM/707.ts?token=ShZcWRELFQxDUFZVBQMACgUMBANeAVcDAgMBVwQAAQVUAlAMUVMCDlRHThRCQktdVFhoWlwRDwIEB0lDQkBRRW5dUBpYQQ8OU1VQDxMaG0xcWFIRAgIDDQwIXVkOAQwbE0RdXEBZFQVSXFEEExobXU1BUkFWUllqUFUTCFRWFg1fQVhUTkFYWD4BB1tQWF0aDxcHERQRXEZEEl8PQl9YGxNWXUwQAkNTQ19ABwMGCBoZF1RcTV1BR00SX0N1YRYbE1FMTAcNRF8OC0AME0JKGhkXXkBnQVBGQEIAAFpWRhULFgQaTkFaVxk6AVlfWFxbQVxYXUsRDxcAEklDWlxaXkVbRmcSClMUW0dRAwcDCBpI
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://freepngimg.com/save/166779-simpsons-the-png-file-hd/864x720"group-title= "DESENHOS 24 HORAS",OS SIMPSONS
+http://digitaldonate2.ddns.net:8085/Simpsons/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vero.com.br/wp-content/uploads/2018/09/2f6b71ef2e1c30a412bb38c811daffde-754x394-570x381.jpg"group-title= "DESENHOS 24 HORAS",MARSHA E O URSO
+http://24hrs.homelinux.com/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8?token=_OpedstPr3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Yu3FUqlwZAI3GXmZ_ZyJqYqu9-Wzohnqt0CreNvERpM9CgzoslIHsTR-rZ_ElUwuf5Y&usqp=CAU"group-title= "DESENHOS 24 HORAS",PEPPA PIG
+http://24hrs.homelinux.com/24H-Peppa.Pig.S01.S02.S03.S04/video.m3u8
+
+
+
+
+######################################## SÉRIES 24 HORAS ########################################
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/R.7e5c88d7dd479ab61fb6bac218e3188c?rik=x09EUYn2hNZX6g&pid=ImgRaw&r=0"group-title= "SÉRIES 24 HORAS",CHAVES
+http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.SNT0Qc03i7Q2oZPHleoMIgAAAA?w=222&h=169&c=7&r=0&o=5&pid=1.7"group-title= "SÉRIES 24 HORAS",CHAPOLIN
+http://24hrs.homelinux.com/24H-chapolin1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP.7cUaoL9iF8Z_f37ATPh0wQHaEK?w=281&h=180&c=7&r=0&o=5&pid=1.7"group-title= "SÉRIES 24 HORAS",TODO MUNDO ODEIA O CHRIS
+http://24hrs.homelinux.com/24H-todomundoodeiaocris/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://th.bing.com/th/id/OIP._QFeBfVcXj5cPRg07s3EKAHaEj?w=294&h=180&c=7&r=0&o=5&pid=1.7"group-title= "SÉRIES 24 HORAS",OS TRAPALHÕES
+http://24hrs.homelinux.com/24H-ostrapalhoes/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://sobresagas.com.br/wp-content/uploads/2023/05/dois-homens-e-meio-22052023.jpg"group-title= "SÉRIES 24 HORAS",DOIS HOMENS E MEIO
+http://24hrs.homelinux.com/24H-2HomensEmeio/video.m3u8
+
+
+
+######################################## NOTÍCIAS ########################################
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/3YlJsCL.png"group-title= "NOTÍCIAS",BAND NEWS
+http://45.58.126.146:14231
+
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png"group-title= "NOTÍCIAS",CNN
+http://45.58.126.146:14234
+
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://i.imgur.com/3yZyaCm.png"group-title= "NOTÍCIAS",GLOBO NEWS
+http://45.58.126.146:14238
+
+#EXTINF:-1 tvg-id="JPNews.br" tvg-logo="https://i.imgur.com/AYO1U1u.png"group-title= "NOTÍCIAS",JOVEM PAN NEWS
+http://45.58.126.146:14241
+
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png"group-title= "NOTÍCIAS",RECORD NEWS
+
+
+
+######################################## FILMES E SÉREIES ########################################
+
+#EXTINF:-1 tvg-id="StarChannelBrazil.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png"group-title= "FILMES E SÉRIES",STAR CHANNEL
+http://212.102.60.39:2200/BRX/Star_Channel_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannelBrazil.br" tvg-logo="https://i.imgur.com/t6GQq2p.png"group-title= "FILMES E SÉRIES",WARNER CHANNEL
+http://212.102.60.39:2200/BRX/Warner_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetworkBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"group-title= "FILMES E SÉRIES",PARAMOUNT CHANNEL
+http://187.95.95.243/paramount/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannelBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png"group-title= "FILMES E SÉRIES",SONY CHANNEL
+http://45.58.126.146:14302
+
+#EXTINF:-1 tvg-id="FXBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png"group-title= "FILMES E SÉRIES",FX
+http://199.127.60.83:16043
+
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png"group-title= "FILMES E SÉRIES",LIFETIME
+http://45.58.126.146:14314
+
+
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png"group-title= "FILMES E SÉRIES",A&E
+http://212.102.60.39:2200/BRX/AE_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AXNBrazil.br"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png"group-title= "FILMES E SÉRIES",AXN
+http://212.102.60.39:2200/BRX/AXN_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AMCBrazil.br" tvg-logo="https://i.imgur.com/rpIAikI.png"group-title= "FILMES E SÉRIES",AMC
+http://212.102.60.39:2200/BRX/AMC_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TNTBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png"group-title= "FILMES E SÉRIES",TNT
+http://212.102.60.39:2200/BRX/TNT__1_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",TNT SÉRIES
+http://45.58.126.146:14345
+
+#EXTINF:-1 tvg-id="CinemaxBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png"group-title= "FILMES E SÉRIES",CINEMAX
+http://212.102.60.39:2200/BRX/Cinemax_HDPLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SpaceBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png"group-title= "FILMES E SÉRIES",SPACE
+http://212.102.60.39:2200/BRX/Space_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SyfyBrazil.br" tvg-logo="https://i.imgur.com/4fMWhUE.png"group-title= "FILMES E SÉRIES",SYFY
+http://212.102.60.39:2200/BRX/Syfy_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-logo="https://i.imgur.com/1MusQ5K.png"group-title= "FILMES E SÉRIES",CANAL BRASIL
+http://212.102.60.39:2200/BRX/Canal_Brasil_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTVBrazil.br" tvg-logo="https://i.imgur.com/jnjvR5f.png"group-title= "FILMES E SÉRIES",UNIVERSAL TV
+http://45.58.126.146:14348
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://i.imgur.com/qTYv5jt.png"group-title= "FILMES E SÉRIES",MEGAPIX
+http://212.102.60.39:2200/BRX/Megapix_HD/tracks-v1a1/mono.m3u8
+
+ #EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+#EXTINF:-1 tvg-id="" tvg-logo=""group-title= "FILMES E SÉRIES",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######################################## ESPORTES ########################################
+#EXTINF:-1 tvg-id="PremiereFC2.br"tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png"group-title= "ESPORTES",PREMIERE FC 2
+http://185.150.190.225:16464/
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo=""group-title= "ESPORTES",
+
+
+
+
+
+
+
+
+
+
+
+                                                    
+                                                    
+
+
+
+
+
+
+
+
+
+
