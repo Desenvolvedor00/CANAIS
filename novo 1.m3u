@@ -115,7 +115,7 @@ http://190.102.43.113:80/Formigatv/offilinetv1715/1542147.m3u8
 #EXTINF:-1 tvg-id="CCANAL" tvg-name="CINECANAL FHD" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="✔️ FILMES E SÉRIES",CINECANAL
 http://190.102.43.113:80/Formigatv/offilinetv1715/1542152.m3u8
 
-#EXTINF:-1 tvg-id="SUNIVMC" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/STUDIO.png" group-title="✔️ FILMES E SÉRIES",UNIVERSAL
+#EXTINF:-1 tvg-id="SUNIVMC" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/STUDIO.png" group-title="✔️ FILMES E SÉRIES",STUDIO UNIVERSAL
 http://190.102.43.113:80/Formigatv/offilinetv1715/1542157.m3u8
 
 #EXTINF:-1 tvg-id="SYFYLAH" tvg-name="SYFY FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SYFY.png" group-title="✔️ FILMES E SÉRIES",SYFY
@@ -132,7 +132,7 @@ http://190.102.43.113:80/Formigatv/offilinetv1715/1542173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS FHD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT NOVELAS
 http://190.102.43.113:80/Formigatv/offilinetv1715/1542178.m3u8
 
-#EXTINF:-1 tvg-id="UNTVCOH" tvg-name="UNIVERSAL TV FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="✔️ FILMES E SÉRIES",UNIVERSAL TV
+#EXTINF:-1 tvg-id="UNTVCOH" tvg-name="UNIVERSAL TV FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="✔️ FILMES E SÉRIES",UNIVERSAL
 http://190.102.43.113:80/Formigatv/offilinetv1715/1542181.m3u8
 
 #EXTINF:-1 tvg-id="WBLA2HD" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/WARNER.png" group-title="✔️ FILMES E SÉRIES",WARNER CHANNEL
