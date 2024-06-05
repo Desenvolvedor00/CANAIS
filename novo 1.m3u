@@ -85,7 +85,7 @@ http://190.102.43.113:80/Formigatv/offilinetv1715/1542098.m3u8
 #EXTINF:-1 tvg-id="AXNKDG" tvg-name="AXN FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AXN.png" group-title="✔️ FILMES E SÉRIES",AXN 
 http://190.102.43.113:80/Formigatv/offilinetv1715/1542103.m3u8
 
-#EXTINF:-1 tvg-id="SETLHD" tvg-name="CANAL SONY FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SONY.png" group-title="✔️ FILMES E SÉRIES",CANAL SONY 
+#EXTINF:-1 tvg-id="SETLHD" tvg-name="CANAL SONY FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SONY.png" group-title="✔️ FILMES E SÉRIES",SONY 
 http://190.102.43.113:80/Formigatv/offilinetv1715/1542108.m3u8
 
 #EXTINF:-1 tvg-id="MAX" tvg-name="CINEMAX FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="✔️ FILMES E SÉRIES",CINEMAX 
