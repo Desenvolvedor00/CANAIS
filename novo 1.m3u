@@ -6,7 +6,7 @@ http://gzcdn.vood.top/live/366758392/g961m3167k/349.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.trendhd.xyz/images/INFANTIL/CARTOON.png" group-title="INFANTIL",CARTOON NETWORK
 http://190.102.43.113:80/Formigatv/offilinetv1715/1541829.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-logo="https://marcaspelomundo.com.br/wp-content/uploads/2021/11/Cartoonito-Logo-02.png" group-title="INFANTIL",CARTOONITO
 http://190.102.43.113:80/Formigatv/offilinetv1715/1541834.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images2.imgbox.com/21/15/vbYb7Xkr_o.png" group-title="INFANTIL",DISCOVERY KIDS
@@ -31,7 +31,7 @@ http://190.102.43.113:80/Formigatv/offilinetv1715/1541854.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.trendhd.xyz/images/INFANTIL/TOONCAST.png" group-title="INFANTIL",TOONCAST
 http://190.102.43.113:80/Formigatv/offilinetv1715/1541864.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.trendhd.xyz/images/INFANTIL/TVRA.png" group-title="INFANTIL",TV RA TIM BUM
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.trendhd.xyz/images/INFANTIL/TVRA.png" group-title="INFANTIL",RA TIM BUM
 http://190.102.43.113:80/Formigatv/offilinetv1715/1541869.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.trendhd.xyz/images/INFANTIL/ZOOMO.png" group-title="INFANTIL",ZOOMOO
@@ -78,6 +78,199 @@ http://190.102.43.113:80/Formigatv/offilinetv1715/1542457.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TC_Touch.png/revision/latest/scale-to-width-down/200?cb=20160228233324" group-title="CANAIS TELECINE",TELECINE TOUCH
 http://190.102.43.113:80/Formigatv/offilinetv1715/320584.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AMC.png" group-title="✔️ FILMES E SÉRIES",AMC FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AMC.png" group-title="✔️ FILMES E SÉRIES",AMC FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542099.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AMC.png" group-title="✔️ FILMES E SÉRIES",AMC HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AMC.png" group-title="✔️ FILMES E SÉRIES",AMC HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542101.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AMC.png" group-title="✔️ FILMES E SÉRIES",AMC SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542102.m3u8
+#EXTINF:-1 tvg-id="AXNKDG" tvg-name="AXN FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AXN.png" group-title="✔️ FILMES E SÉRIES",AXN FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542103.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AXN.png" group-title="✔️ FILMES E SÉRIES",AXN FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542104.m3u8
+#EXTINF:-1 tvg-id="AXNKDG" tvg-name="AXN HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AXN.png" group-title="✔️ FILMES E SÉRIES",AXN HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542105.m3u8
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AXN.png" group-title="✔️ FILMES E SÉRIES",AXN HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542106.m3u8
+#EXTINF:-1 tvg-id="AXNKDG" tvg-name="AXN SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/AXN.png" group-title="✔️ FILMES E SÉRIES",AXN SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542107.m3u8
+#EXTINF:-1 tvg-id="SETLHD" tvg-name="CANAL SONY FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SONY.png" group-title="✔️ FILMES E SÉRIES",CANAL SONY FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542108.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SONY.png" group-title="✔️ FILMES E SÉRIES",CANAL SONY FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542109.m3u8
+#EXTINF:-1 tvg-id="SETLHD" tvg-name="CANAL SONY HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SONY.png" group-title="✔️ FILMES E SÉRIES",CANAL SONY HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542110.m3u8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SONY.png" group-title="✔️ FILMES E SÉRIES",CANAL SONY HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542111.m3u8
+#EXTINF:-1 tvg-id="SETLHD" tvg-name="CANAL SONY SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SONY.png" group-title="✔️ FILMES E SÉRIES",CANAL SONY SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542112.m3u8
+#EXTINF:-1 tvg-id="MAX" tvg-name="CINEMAX FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="✔️ FILMES E SÉRIES",CINEMAX FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542113.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="✔️ FILMES E SÉRIES",CINEMAX FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542114.m3u8
+#EXTINF:-1 tvg-id="MAX" tvg-name="CINEMAX HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="✔️ FILMES E SÉRIES",CINEMAX HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542115.m3u8
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="✔️ FILMES E SÉRIES",CINEMAX HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542116.m3u8
+#EXTINF:-1 tvg-id="MAX" tvg-name="CINEMAX SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/CINEMAX.png" group-title="✔️ FILMES E SÉRIES",CINEMAX SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542117.m3u8
+#EXTINF:-1 tvg-id="COCECH" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/COMEDY.png" group-title="✔️ FILMES E SÉRIES",COMEDY CENTRAL FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/COMEDY.png" group-title="✔️ FILMES E SÉRIES",COMEDY CENTRAL FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542119.m3u8
+#EXTINF:-1 tvg-id="COCECH" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/COMEDY.png" group-title="✔️ FILMES E SÉRIES",COMEDY CENTRAL HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/COMEDY.png" group-title="✔️ FILMES E SÉRIES",COMEDY CENTRAL HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542121.m3u8
+#EXTINF:-1 tvg-id="COCECH" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/COMEDY.png" group-title="✔️ FILMES E SÉRIES",COMEDY CENTRAL SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542122.m3u8
+#EXTINF:-1 tvg-id="FXCHLH" tvg-name="FX FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/FX.png" group-title="✔️ FILMES E SÉRIES",FX FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542123.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/FX.png" group-title="✔️ FILMES E SÉRIES",FX FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542124.m3u8
+#EXTINF:-1 tvg-id="FXCHLH" tvg-name="FX HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/FX.png" group-title="✔️ FILMES E SÉRIES",FX HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542125.m3u8
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/FX.png" group-title="✔️ FILMES E SÉRIES",FX HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542126.m3u8
+#EXTINF:-1 tvg-id="FXCHLH" tvg-name="FX SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/FX.png" group-title="✔️ FILMES E SÉRIES",FX SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542127.m3u8
+#EXTINF:-1 tvg-id="LIFELAH" tvg-name="LIFETIME FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="✔️ FILMES E SÉRIES",LIFETIME FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="✔️ FILMES E SÉRIES",LIFETIME FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542129.m3u8
+#EXTINF:-1 tvg-id="LIFELAH" tvg-name="LIFETIME HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="✔️ FILMES E SÉRIES",LIFETIME HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542130.m3u8
+#EXTINF:-1 tvg-id="LIFELAH" tvg-name="LIFETIME SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/LIFETIME.png" group-title="✔️ FILMES E SÉRIES",LIFETIME SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542131.m3u8
+#EXTINF:-1 tvg-id="MGPIX" tvg-name="MEGAPIX FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="✔️ FILMES E SÉRIES",MEGAPIX FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542132.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="✔️ FILMES E SÉRIES",MEGAPIX FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542133.m3u8
+#EXTINF:-1 tvg-id="MGPIX" tvg-name="MEGAPIX HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="✔️ FILMES E SÉRIES",MEGAPIX HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542134.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="✔️ FILMES E SÉRIES",MEGAPIX HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542135.m3u8
+#EXTINF:-1 tvg-id="MGPIX" tvg-name="MEGAPIX SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/MEGAPIX.png" group-title="✔️ FILMES E SÉRIES",MEGAPIX SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="✔️ FILMES E SÉRIES",PARAMOUNT FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="✔️ FILMES E SÉRIES",PARAMOUNT FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="✔️ FILMES E SÉRIES",PARAMOUNT HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="✔️ FILMES E SÉRIES",PARAMOUNT HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/PARAMOUNT.png" group-title="✔️ FILMES E SÉRIES",PARAMOUNT SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542141.m3u8
+#EXTINF:-1 tvg-id="SPACECH" tvg-name="SPACE FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SPACE.png" group-title="✔️ FILMES E SÉRIES",SPACE FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542142.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SPACE.png" group-title="✔️ FILMES E SÉRIES",SPACE FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542143.m3u8
+#EXTINF:-1 tvg-id="SPACECH" tvg-name="SPACE HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SPACE.png" group-title="✔️ FILMES E SÉRIES",SPACE HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542144.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SPACE.png" group-title="✔️ FILMES E SÉRIES",SPACE HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542145.m3u8
+#EXTINF:-1 tvg-id="SPACECH" tvg-name="SPACE SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SPACE.png" group-title="✔️ FILMES E SÉRIES",SPACE SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="✔️ FILMES E SÉRIES",STAR CHANNEL FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL FHD H265" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="✔️ FILMES E SÉRIES",STAR CHANNEL FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="✔️ FILMES E SÉRIES",STAR CHANNEL HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD [ALT]" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="✔️ FILMES E SÉRIES",STAR CHANNEL HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL SD" tvg-logo="https://prostore.app/logos/starchannel.png" group-title="✔️ FILMES E SÉRIES",STAR CHANNEL SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542151.m3u8
+#EXTINF:-1 tvg-id="CCANAL" tvg-name="CINECANAL FHD" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="✔️ FILMES E SÉRIES",CINECANAL FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL FHD H265" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="✔️ FILMES E SÉRIES",CINECANAL FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542153.m3u8
+#EXTINF:-1 tvg-id="CCANAL" tvg-name="CINECANAL HD" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="✔️ FILMES E SÉRIES",CINECANAL HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL HD [ALT]" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="✔️ FILMES E SÉRIES",CINECANAL HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542155.m3u8
+#EXTINF:-1 tvg-id="CCANAL" tvg-name="CINECANAL SD" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="✔️ FILMES E SÉRIES",CINECANAL SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542156.m3u8
+#EXTINF:-1 tvg-id="SUNIVMC" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/STUDIO.png" group-title="✔️ FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/STUDIO.png" group-title="✔️ FILMES E SÉRIES",STUDIO UNIVERSAL FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542158.m3u8
+#EXTINF:-1 tvg-id="SUNIVMC" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/STUDIO.png" group-title="✔️ FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/STUDIO.png" group-title="✔️ FILMES E SÉRIES",STUDIO UNIVERSAL HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542160.m3u8
+#EXTINF:-1 tvg-id="SUNIVMC" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/STUDIO.png" group-title="✔️ FILMES E SÉRIES",STUDIO UNIVERSAL SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542161.m3u8
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="SYFY FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SYFY.png" group-title="✔️ FILMES E SÉRIES",SYFY FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542162.m3u8
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SYFY.png" group-title="✔️ FILMES E SÉRIES",SYFY FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542163.m3u8
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="SYFY HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SYFY.png" group-title="✔️ FILMES E SÉRIES",SYFY HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542164.m3u8
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="SYFY SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/SYFY.png" group-title="✔️ FILMES E SÉRIES",SYFY SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542165.m3u8
+#EXTINF:-1 tvg-id="TCMARHD" tvg-name="TCM HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/TCM.png" group-title="✔️ FILMES E SÉRIES",TCM HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542166.m3u8
+#EXTINF:-1 tvg-id="TCMARHD" tvg-name="TCM SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/TCM.png" group-title="✔️ FILMES E SÉRIES",TCM SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542167.m3u8
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/TNT.png" group-title="✔️ TNT FILMES E ESPORTES",TNT FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542168.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/TNT.png" group-title="✔️ TNT FILMES E ESPORTES",TNT FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542169.m3u8
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/TNT.png" group-title="✔️ TNT FILMES E ESPORTES",TNT HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542170.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/TNT.png" group-title="✔️ TNT FILMES E ESPORTES",TNT HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542171.m3u8
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="TNT SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/TNT.png" group-title="✔️ TNT FILMES E ESPORTES",TNT SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542172.m3u8
+#EXTINF:-1 tvg-id="TNTSERH" tvg-name="TNT SERIES FHD" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT SERIES FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FHD H265" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT SERIES FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542174.m3u8
+#EXTINF:-1 tvg-id="TNTSERH" tvg-name="TNT SERIES HD" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT SERIES HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD [ALT]" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT SERIES HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542176.m3u8
+#EXTINF:-1 tvg-id="TNTSERH" tvg-name="TNT SERIES SD" tvg-logo="https://images2.imgbox.com/4b/70/E7QDkpUK_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT SERIES SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS FHD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT NOVELAS FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS HD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT NOVELAS HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS SD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="✔️ TNT FILMES E ESPORTES",TNT NOVELAS SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542180.m3u8
+#EXTINF:-1 tvg-id="UNTVCOH" tvg-name="UNIVERSAL TV FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="✔️ FILMES E SÉRIES",UNIVERSAL TV FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="✔️ FILMES E SÉRIES",UNIVERSAL TV FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542182.m3u8
+#EXTINF:-1 tvg-id="UNTVCOH" tvg-name="UNIVERSAL TV HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="✔️ FILMES E SÉRIES",UNIVERSAL TV HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="✔️ FILMES E SÉRIES",UNIVERSAL TV HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542184.m3u8
+#EXTINF:-1 tvg-id="UNTVCOH" tvg-name="UNIVERSAL TV SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/UNIVERSAL.png" group-title="✔️ FILMES E SÉRIES",UNIVERSAL TV SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542185.m3u8
+#EXTINF:-1 tvg-id="WBLA2HD" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/WARNER.png" group-title="✔️ FILMES E SÉRIES",WARNER CHANNEL FHD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/WARNER.png" group-title="✔️ FILMES E SÉRIES",WARNER CHANNEL FHD H265
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542187.m3u8
+#EXTINF:-1 tvg-id="WBLA2HD" tvg-name="WARNER CHANNEL HD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/WARNER.png" group-title="✔️ FILMES E SÉRIES",WARNER CHANNEL HD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WARNER  CHANNEL HD [ALT]" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/WARNER.png" group-title="✔️ FILMES E SÉRIES",WARNER  CHANNEL HD [ALT]
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542189.m3u8
+#EXTINF:-1 tvg-id="WBLA2HD" tvg-name="WARNER CHANNEL SD" tvg-logo="http://logo.trendhd.xyz/images/Filmes_Series/WARNER.png" group-title="✔️ FILMES E SÉRIES",WARNER CHANNEL SD
+http://190.102.43.113:80/Formigatv/offilinetv1715/1542190.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="44 GATOS" tvg-logo="" group-title="✔️ CANAIS 24HS",44 GATOS
 http://190.102.43.113:80/Formigatv/offilinetv1715/1541334.m3u8
